@@ -50,4 +50,4 @@
 <p>
     2.Демонстрация работоспособоности:
 </p>
-![demonstration](https://github.com/Dalanes/G5MCBfCwJ4xV/blob/main/test-Task.gif?raw=true)
+![demonstration](https://github.com/Dalanes/G5MCBfCwJ4xV/blob/main/test-Task.gif)
