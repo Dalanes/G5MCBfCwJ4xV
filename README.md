@@ -49,5 +49,5 @@
 </p>
 <p>
     2.Демонстрация работоспособоности:
-    ![](test-Task.gif)
+    ![demonstration](./test-Task.gif)
 </p>
