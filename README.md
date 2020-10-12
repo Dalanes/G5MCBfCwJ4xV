@@ -49,5 +49,5 @@
 </p>
 <p>
     2.Демонстрация работоспособоности:
-    ![demonstration](./test-Task.gif)
+    ![demonstration](https://github.com/Dalanes/G5MCBfCwJ4xV/blob/main/test-Task.gif?raw=true)
 </p>
