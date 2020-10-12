@@ -50,4 +50,5 @@
 <p>
     2.Демонстрация работоспособоности:
 </p>
+
 ![test-Task](https://user-images.githubusercontent.com/58053004/95782232-1afa1b80-0cd8-11eb-993b-fe08038b0128.gif)
